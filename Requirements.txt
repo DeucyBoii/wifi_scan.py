@@ -1,0 +1,8 @@
+## Requirements.txt ##
+# depended files to operate this application:
+
+streamlit
+scapy
+ping3
+psutil
+netifaces
